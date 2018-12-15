@@ -36,7 +36,7 @@
 - **[JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.JavaScriptSnippetPack)** : 顾名思义，JS的代码段快速工具。
 
 # 最后推荐它
-#- **[ABP Code Generator](https://marketplace.visualstudio.com/items?itemName=werltm.ABPCodeGenerator)**: ABP框架配套的代码生成器，用于大# #家在日常开发过程中节约时间，把更多的精力放于业务逻辑的处理中。目前支持.net framework版本，暂时不支持.net core。这个是我自己做的工具，喜欢abp框# 架#的可以下载配套和它一起使用。
+- **[ABP Code Generator](https://marketplace.visualstudio.com/items?itemName=werltm.ABPCodeGenerator)**: ABP框架配套的代码生成器，用于大# 家在日常开发过程中节约时间，把更多的精力放于业务逻辑的处理中。目前支持.net framework版本，暂时不支持.net core。这个是我自己做的工具，喜欢abp框# 架#的可以下载配套和它一起使用。
 
 # 如何安装
 1 你可以打开“https://marketplace.visualstudio.com/vs” 将名字逐一的复制进去，然后搜索下载安装。
